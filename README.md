@@ -4,7 +4,7 @@ A lightweight command-line music player designed to organize and play local audi
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Lightweight & Fast:** Minimal resource overhead with instant playback.
 - **Terminal-Based UI:** Navigate and manage music without leaving your terminal.
@@ -13,7 +13,7 @@ A lightweight command-line music player designed to organize and play local audi
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone the repository to your local machine:
 
