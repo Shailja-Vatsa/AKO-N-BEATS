@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^6.0.0",
     "play-sound": "^1.1.6"
   }
 }
