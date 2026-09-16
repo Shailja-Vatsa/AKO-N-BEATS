@@ -12,6 +12,7 @@
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^6.0.0",
+    "music-metadata": "^11.15.0",
     "play-sound": "^1.1.6"
   }
 }
